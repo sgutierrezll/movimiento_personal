@@ -1,0 +1,1 @@
+export  { Inmueble } from 'src/inmueble/entity/inmueble.entity'
